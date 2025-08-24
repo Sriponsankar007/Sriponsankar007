@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)  
 - 🌐 [Portfolio Website](https://www.kagan-portfolio.onrender.com)  
-- 📧 Email: [kaganeshwar414@gmail.com](mailto:kaganeshwar414@gmail.com)  
+- 📧 Email: [kaganeshwar414@gmail.com](mailto:sriponsankar6@gmail.com)  
 
 ---
 
