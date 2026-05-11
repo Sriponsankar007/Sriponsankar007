@@ -105,8 +105,8 @@ Passionate software developer with strong interest in Full Stack Development, Ar
 # 📫 Connect With Me
 
 - 📧 Email: sriponsankar6@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/dpsriponsankar
-- 💻 GitHub: https://github.com/your-github-username
+- 💼 LinkedIn:[ www.linkedin.com/in/dpsriponsankar](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
+- 💻 GitHub: https://github.com/Sriponsankar007
 
 ---
 
