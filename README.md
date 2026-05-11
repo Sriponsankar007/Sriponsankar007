@@ -112,4 +112,6 @@ Passionate software developer with strong interest in Full Stack Development, Ar
 
 # ⭐ Quote
 
-> “Code, Learn, Build, Repeat.”
+```text
+💻 Code  →  📚 Learn  →  🚀 Build  →  🔁 Repeat
+```
