@@ -1,78 +1,115 @@
-# Hi there, I'm SRIPONSANKAR D P 👋
+# Hi, I'm Sriponsankar D P 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Web Developer** with a knack for creating dynamic, user-friendly, and scalable web applications. 🚀
+### M.Sc Software Systems Student | Full Stack Developer | AI Enthusiast
 
----
-
-## 🌟 About Me  
-
-- 🎓 **Education:** Pursuing MSc in Software Systems at Kongu Engineering College,Perundurai.  
-- 💻 **Skills:**  
-  - **Frontend:** React.js, HTML5, CSS3, JavaScript, Bootstrap  
-  - **Backend:** Node.js, Express.js  
-  - **Database:** MongoDB, MySQL  
-  - **Others:** Git, GitHub, REST APIs, Docker  
-- 🌱 **Currently Learning:** TypeScript, Cloud Deployment (AWS/GCP)  
-- 👨‍💻 **Freelancer:** Open for exciting opportunities!  
+Passionate software developer with strong interest in Full Stack Development, Artificial Intelligence, and scalable application development. Experienced in building modern web and mobile applications using React.js, Node.js, MongoDB, Python, and Java.
 
 ---
 
-## 🚀 My Projects  
+## 🚀 About Me
 
-### [HigherEdHelper](https://higheredhelpr.rf.gd/?i=1)  
-- A full-stack web application developed for HigherEdHelper, a company dedicated to providing educational resources and services.  
-- **Features:**  
-  - User-friendly interface for browsing educational content.  
-  - Secure user authentication and role-based access control.  
-  - Dynamic content management system for administrators.  
-  - Responsive design optimized for both desktop and mobile platforms.  
-- **Tech Stack:** Node.js, Express.js, MongoDB  
-- [GitHub Repo](https://github.com/Kagan2414/HigherEDHelper.git)
-
-### [Codewar 2.0](https://www.codewar.in)  
-- A full-stack web application developed for the CodeWar event, hosted by Park Institution.  
-- **Purpose:**  
-  Designed to manage and showcase the coding competition for first-year engineering students, highlighting event details, schedules, and participant information.  
-- **Features:**  
-  - Event registration and participant management system.  
-  - Dynamic dashboard for event updates and results.  
-  - Admin panel for organizing and moderating the event.  
-  - Responsive design for seamless user experience across devices.  
-- **Tech Stack:** Next.js, Express.js, MongoDB  
-- [GitHub Repo](https://github.com/Kagan2414/Codewar-Project.git)
-
-### [Podcast Plus](https://github.com/Kagan2414/Podcast-Plus/blob/c4acc46aed0b9b9d1ce613669f86bc5969419c96/PodcastPlus/Demonstration%20Video/podcast.mp4)  
-- A podcast streaming and management app developed using Kotlin for Android and JavaScript for the web platform.  
-- **Purpose:**  
-  To provide users with a seamless and intuitive podcast experience, allowing them to discover, listen to, and organize their favorite podcasts.  
-- **Features:**  
-  - Search and filter podcasts by genre, popularity, and latest episodes.  
-  - Play, pause, and bookmark podcast episodes.  
-  - Offline listening support for downloaded episodes.  
-  - User authentication for creating and managing custom podcast playlists.  
-- **Tech Stack:** Kotlin, JavaScript  
-- [GitHub Repo](https://github.com/Kagan2414/Podcast-Plus.git)
+- 🎓 Pursuing **M.Sc Software Systems** at Kongu Engineering College
+- 💻 Interested in Full Stack Development and AI-based Applications
+- 🌱 Currently improving problem-solving and system design skills
+- ⚡ Strong foundations in DSA, OOP, DBMS, and Operating Systems
+- 📍 Tamil Nadu, India
 
 ---
 
-## 🏆 Achievements  
+# 🛠️ Tech Stack
 
-- 🎖️ **AI Mega Workshop 2.0 Graduate**  
-- 🏅 Organizer of **Code War**, a coding competition for budding programmers.  
+## Programming Languages
+- Java
+- Python
+- C++
+- C
+- SQL
+- JavaScript
+
+## Frontend
+- HTML
+- CSS
+- React.js
+- React Native
+
+## Backend
+- Node.js
+- Express.js
+
+## Database
+- MongoDB
+- MySQL
+
+## Core Concepts
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
 
 ---
 
-## 📫 Get in Touch  
+# 📌 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)  
-- 🌐 [Portfolio Website](https://www.kagan-portfolio.onrender.com)  
-- 📧 Email: [sriponsankar6@gmail.com](mailto:sriponsankar6@gmail.com)  
+## 🔹 TruVisio — AI Mobile App
+**Tech Stack:** React Native, Expo, WebSocket, JavaScript
 
----
-
-### 🤝 Let's Collaborate!  
-I'm always excited to connect with fellow developers and work on innovative projects. Feel free to reach out to me for collaborations or freelance work. 😊  
+- Developed a cross-platform AI-based fact-checking mobile application
+- Implemented real-time text and image verification updates using WebSocket
+- Designed responsive and user-friendly mobile interfaces
 
 ---
 
-Thank you for visiting! ⭐️ Don't forget to check out my repositories.
+## 🔹 Blood Donation Portal
+**Tech Stack:** React.js, JavaScript, EmailJS, HTML, CSS
+
+- Built a responsive blood donor management system
+- Added donor registration and appointment scheduling features
+- Integrated automated email notifications using EmailJS
+
+---
+
+## 🔹 Wildfire Detection System
+**Tech Stack:** Python, TensorFlow, OpenCV, CNN
+
+- Developed an AI-powered wildfire detection model using CNN
+- Trained deep learning models with image datasets
+- Improved prediction accuracy through preprocessing and evaluation
+
+---
+
+## 🔹 CodeWar 2.0 — Event Management Platform
+**Tech Stack:** Node.js, Express.js, MongoDB, JavaScript
+
+- Built a full-stack coding event management platform
+- Implemented authentication and participant registration workflows
+- Developed REST APIs and database integration
+
+---
+
+# 📈 Goals
+
+- Become a skilled Software Engineer
+- Build scalable full-stack applications
+- Contribute to real-world AI projects
+- Continuously improve problem-solving abilities
+
+---
+
+# 🏆 Certifications
+
+- Oracle AI Vector Search Professional
+- Oracle Cloud Infrastructure Foundations
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: sriponsankar6@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/dpsriponsankar
+- 💻 GitHub: https://github.com/your-github-username
+
+---
+
+# ⭐ Quote
+
+> “Code, Learn, Build, Repeat.”
