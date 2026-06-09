@@ -253,10 +253,10 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png?raw=true" width="30" alt="Globe" />Github
 
 <div align="center">
-## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png?raw=true" width="30" alt="Globe" />Github
+
 <table>
 <tr>
 <td>
