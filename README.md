@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADER: capsule-render works via GitHub's camo proxy, confirmed for millions of READMEs -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,30:090979,60:5b2d8e,100:a855f7&height=240&section=header&text=Sriponsankar%20D%20P&fontSize=58&fontColor=ffffff&fontAlignY=42&stroke=a855f7&strokeWidth=2&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20MSc%20Software%20Systems&descAlignY=62&descSize=17&animation=scaleIn" width="100%" alt="Header" />
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Crafting+scalable+full-stack+systems;Building+AI-powered+real-world+apps;React+%7C+Node.js+%7C+Python+%7C+TensorFlow;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
@@ -18,7 +15,6 @@
 
 ---
 
-<!-- DIVIDER: confirmed 200 from raw.githubusercontent.com -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30" alt="dev" /> About Me
@@ -83,48 +79,177 @@ const sriponsankar = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="rocket" /> Featured Projects
 
-<div align="center">
+<!--  ======================================================
+      PROJECT 1 — TruVisio
+      ====================================================== -->
+<table>
+<tr>
+<td>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **TruVisio — AI Fact-Checker** | `React Native` `Expo` `WebSocket` | Real-time AI text & image verification, zero-latency updates, cross-platform |
-| **Wildfire Detection System** | `Python` `TensorFlow` `OpenCV` `CNN` | Deep learning on aerial datasets, preprocessing pipeline, disaster prevention |
-| **Blood Donation Portal** | `React.js` `EmailJS` `JavaScript` | Donor management, appointment scheduling, automated email notifications |
-| **CodeWar 2.0 Event Platform** | `Node.js` `Express.js` `MongoDB` | Full-stack REST API, auth system, concurrent participant registration |
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="24" alt="mobile" /> TruVisio — AI Fact-Checking App
 
-</div>
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+> Cross-platform mobile application that fights misinformation using real-time AI verification.
+
+**What it does**
+
+Users submit any text or image for instant AI-powered fact verification.
+Results are pushed live via WebSocket — no polling, no page reload, no delay.
+The UI adapts fluidly across iOS and Android with consistent UX.
+
+**Engineering Decisions**
+
+| Decision | Reason |
+|---|---|
+| WebSocket over REST polling | Sub-100ms update latency vs 1-2s polling cycle |
+| Expo managed workflow | Single codebase deploys to both iOS and Android |
+| Modular component architecture | Each feature screen is independently testable and swappable |
+| Functional React Native components | Hooks-based state keeps logic co-located with UI |
+
+**Key Challenges Solved**
+
+- Synchronising live AI result streams into a mobile UI without flickering
+- Handling reconnect logic when WebSocket drops on poor networks
+- Maintaining performance on low-end Android devices with large image payloads
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<details>
-<summary><b>Deep Dive: TruVisio — AI Fact-Checking App</b></summary>
+<!--  ======================================================
+      PROJECT 2 — Wildfire Detection
+      ====================================================== -->
+<table>
+<tr>
+<td>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="24" alt="fire" /> Wildfire Detection System — AI Vision Model
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Architecture-blueviolet?style=flat-square)
+
+> AI-powered early-warning system that detects wildfires from aerial imagery using deep learning.
+
+**What it does**
+
+A Convolutional Neural Network trained on real-world aerial wildfire datasets.
+The model classifies images as fire or non-fire with high precision by learning
+colour distribution, smoke texture, and spatial burn patterns.
+
+**Engineering Decisions**
+
+| Decision | Reason |
+|---|---|
+| CNN over traditional CV | Learns complex visual features automatically vs hand-crafted filters |
+| Custom preprocessing pipeline | Normalisation + augmentation reduced overfitting on limited dataset |
+| Binary classification head | Clean fire/no-fire output — no ambiguous confidence bands |
+| OpenCV for ingestion | Fast, memory-efficient frame extraction from drone footage |
+
+**Key Challenges Solved**
+
+- Class imbalance: fire images were fewer than non-fire — solved with weighted loss and augmentation
+- False positives from sunset/orange-sky images — resolved by adding hard-negative mining
+- Generalising to unseen geographies without retraining from scratch
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-> Built a **cross-platform mobile application** that combats misinformation in real time.
-> Users submit text or images and receive AI-verified verdicts via live WebSocket streams —
-> no page refresh, no waiting. Designed with accessibility and clarity at the core.
+<!--  ======================================================
+      PROJECT 3 — Blood Donation Portal
+      ====================================================== -->
+<table>
+<tr>
+<td>
 
-**Key engineering decisions:**
-- WebSocket for sub-100ms update delivery over polling
-- Modular component architecture in React Native for easy feature extension
-- Expo managed workflow for rapid cross-platform deployment
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drop%20of%20Blood.png" width="24" alt="blood" /> Blood Donation Portal — Donor Management System
 
-</details>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![EmailJS](https://img.shields.io/badge/EmailJS-D14836?style=flat-square&logo=gmail&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
-<details>
-<summary><b>Deep Dive: Wildfire Detection System</b></summary>
+> Responsive donor management platform connecting blood donors with recipients and hospitals.
+
+**What it does**
+
+Donors register with their blood group and availability.
+Recipients and hospitals browse and filter by blood type and location.
+Automated email confirmations fire via EmailJS on registration and appointment booking.
+The UI is fully responsive across mobile, tablet, and desktop.
+
+**Engineering Decisions**
+
+| Decision | Reason |
+|---|---|
+| EmailJS (no backend email server) | Zero server cost — emails sent directly from the browser |
+| React component-based architecture | Reusable donor cards, filter panels, and form components |
+| Client-side filtering | Instant search results without a round-trip API call |
+| Responsive CSS Grid layout | Adapts to any screen size — critical for mobile hospital use |
+
+**Key Challenges Solved**
+
+- Preventing duplicate donor registrations without a backend database
+- Designing an accessible form flow for non-technical users in medical settings
+- Email deliverability — configured EmailJS templates with fallback text for spam filters
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-> An **AI-powered early warning system** trained on wildfire aerial imagery.
-> The CNN model detects fire signatures with high precision by learning
-> color, texture, and spatial patterns in real-world datasets.
+<!--  ======================================================
+      PROJECT 4 — CodeWar 2.0
+      ====================================================== -->
+<table>
+<tr>
+<td>
 
-**Key engineering decisions:**
-- Custom preprocessing pipeline (normalization, augmentation) to boost generalization
-- CNN architecture tuned for binary classification on imbalanced datasets
-- OpenCV for image ingestion and preprocessing
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="24" alt="keyboard" /> CodeWar 2.0 — Coding Event Management Platform
 
-</details>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
+> Full-stack platform managing participant registration and workflow for competitive coding events.
+
+**What it does**
+
+Organisers create and manage coding competitions end-to-end.
+Participants register, receive confirmations, and track their event status.
+RESTful APIs power every operation — authentication, registration, dashboard reads.
+MongoDB handles concurrent writes from hundreds of simultaneous registrants.
+
+**Engineering Decisions**
+
+| Decision | Reason |
+|---|---|
+| REST API architecture | Clean separation of frontend and backend — independently deployable |
+| MongoDB (NoSQL) | Flexible participant schema; fast writes under concurrent load |
+| Express middleware for auth | Centralised JWT verification without repeating logic per route |
+| Modular route structure | Each resource (events, users, registrations) has its own router file |
+
+**Key Challenges Solved**
+
+- Handling race conditions when two users register for the last available slot simultaneously
+- Designing a schema that supports multiple event types without a rigid fixed structure
+- Building an admin dashboard that reflects live registration counts without WebSocket complexity
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
@@ -132,12 +257,20 @@ const sriponsankar = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&ring_color=c084fc" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" width="38%" alt="Top Languages" />
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&ring_color=c084fc" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" width="56%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -170,7 +303,7 @@ const sriponsankar = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bullseye.png" width="30" alt="target" /> 2025 Goals
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" alt="target" /> 2025 Goals
 
 <div align="center">
 
@@ -206,8 +339,8 @@ const sriponsankar = {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="handshake" /> Open to Opportunities
 
-> *Actively looking for full-stack / AI engineering roles, internships, and open-source collaborations.*
-> *If you are building something meaningful — let us connect.*
+> *Actively looking for full-stack or AI engineering roles, internships, and open-source collaborations.*
+> *If you are building something meaningful, let us connect.*
 
 <br/>
 
@@ -223,7 +356,6 @@ const sriponsankar = {
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:5b2d8e,100:090979&height=130&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
