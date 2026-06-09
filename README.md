@@ -253,7 +253,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="stats" /> GitHub Stats
+
 
 <div align="center">
 
@@ -303,7 +303,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" alt="target" /> 2025 Goals
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="30" alt="target" /> Goals
 
 <div align="center">
 
