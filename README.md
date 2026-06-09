@@ -1,38 +1,53 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sriponsankar%20D%20P&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=M.Sc%20Software%20Systems%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<!-- HEADER: capsule-render works via GitHub's camo proxy, confirmed for millions of READMEs -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020024,30:090979,60:5b2d8e,100:a855f7&height=240&section=header&text=Sriponsankar%20D%20P&fontSize=58&fontColor=ffffff&fontAlignY=42&stroke=a855f7&strokeWidth=2&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20MSc%20Software%20Systems&descAlignY=62&descSize=17&animation=scaleIn" width="100%" alt="Header" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&lines=Building+intelligent+full-stack+apps;AI+%2B+Web+%2B+Mobile+—+all+in+one+stack;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=C084FC&background=00000000&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Crafting+scalable+full-stack+systems;Building+AI-powered+real-world+apps;React+%7C+Node.js+%7C+Python+%7C+TensorFlow;Code+%E2%86%92+Learn+%E2%86%92+Build+%E2%86%92+Repeat" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sriponsankar007&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Sriponsankar007?style=flat-square&color=7c3aed&labelColor=1e1b4b&label=Followers)](https://github.com/Sriponsankar007)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sriponsankar007&style=for-the-badge&color=7c3aed&label=VIEWS)](https://github.com/Sriponsankar007)
 
 </div>
 
 ---
 
-## `$ whoami`
+<!-- DIVIDER: confirmed 200 from raw.githubusercontent.com -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-```yaml
-name       : Sriponsankar D P
-role       : Full Stack Developer & AI Enthusiast
-education  : M.Sc Software Systems — Kongu Engineering College, Tamil Nadu
-focus      : Scalable Web Apps · AI-Powered Systems · Mobile Development
-interests  : System Design · Deep Learning · Real-Time Applications
-currently  : Sharpening DSA + System Design for top-tier engineering roles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="30" alt="dev" /> About Me
+
+```typescript
+const sriponsankar = {
+  name        : "Sriponsankar D P",
+  title       : "Full Stack Developer | AI Enthusiast",
+  education   : "M.Sc Software Systems @ Kongu Engineering College, Tamil Nadu",
+  focus       : ["Scalable Web Apps", "AI-Powered Systems", "Mobile Development"],
+  stack       : {
+    frontend  : ["React.js", "React Native", "HTML", "CSS", "JavaScript"],
+    backend   : ["Node.js", "Express.js"],
+    database  : ["MongoDB", "MySQL"],
+    ai_ml     : ["TensorFlow", "OpenCV", "CNN"],
+    languages : ["Java", "Python", "C++", "SQL"],
+  },
+  certifications : [
+    "Oracle AI Vector Search Professional",
+    "Oracle Cloud Infrastructure Foundations",
+  ],
+  currently   : "Sharpening DSA + System Design for top engineering roles",
+  fun_fact    : "I debug AI models and full-stack apps before breakfast",
+};
 ```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## ⚡ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" alt="tools" /> Tech Stack
 
 <div align="center">
 
@@ -46,129 +61,169 @@ currently  : Sharpening DSA + System Design for top-tier engineering roles
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
+### AI / ML & Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Tools & Platforms
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🔭 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 TruVisio — AI Fact-Checking App</h3>
-      <p><code>React Native</code> · <code>Expo</code> · <code>WebSocket</code></p>
-      <ul>
-        <li>Cross-platform mobile app with real-time AI-powered fact verification</li>
-        <li>Live text & image analysis via WebSocket for zero-latency updates</li>
-        <li>Clean, responsive UI built for intuitive user interaction</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔥 Wildfire Detection System</h3>
-      <p><code>Python</code> · <code>TensorFlow</code> · <code>OpenCV</code> · <code>CNN</code></p>
-      <ul>
-        <li>Deep learning model (CNN) trained on aerial image datasets</li>
-        <li>Preprocessing pipeline to boost detection accuracy</li>
-        <li>Real-world application of computer vision for disaster prevention</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🩸 Blood Donation Portal</h3>
-      <p><code>React.js</code> · <code>EmailJS</code> · <code>JavaScript</code></p>
-      <ul>
-        <li>Full donor management system with registration & scheduling</li>
-        <li>Automated email notifications integrated via EmailJS</li>
-        <li>Responsive design built for accessibility across devices</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚔️ CodeWar 2.0 — Event Platform</h3>
-      <p><code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code></p>
-      <ul>
-        <li>Full-stack event management platform for coding competitions</li>
-        <li>REST API architecture with secure auth & participant workflows</li>
-        <li>Scalable database design for concurrent registrations</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" alt="rocket" /> Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170" />
+| Project | Stack | Highlights |
+|---|---|---|
+| **TruVisio — AI Fact-Checker** | `React Native` `Expo` `WebSocket` | Real-time AI text & image verification, zero-latency updates, cross-platform |
+| **Wildfire Detection System** | `Python` `TensorFlow` `OpenCV` `CNN` | Deep learning on aerial datasets, preprocessing pipeline, disaster prevention |
+| **Blood Donation Portal** | `React.js` `EmailJS` `JavaScript` | Donor management, appointment scheduling, automated email notifications |
+| **CodeWar 2.0 Event Platform** | `Node.js` `Express.js` `MongoDB` | Full-stack REST API, auth system, concurrent participant registration |
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%" />
+<details>
+<summary><b>Deep Dive: TruVisio — AI Fact-Checking App</b></summary>
+<br/>
 
-</div>
+> Built a **cross-platform mobile application** that combats misinformation in real time.
+> Users submit text or images and receive AI-verified verdicts via live WebSocket streams —
+> no page refresh, no waiting. Designed with accessibility and clarity at the core.
 
----
+**Key engineering decisions:**
+- WebSocket for sub-100ms update delivery over polling
+- Modular component architecture in React Native for easy feature extension
+- Expo managed workflow for rapid cross-platform deployment
 
-## 🏅 Certifications
+</details>
 
-| 🏆 Certification | 🏢 Issuer |
-|---|---|
-| **AI Vector Search Professional** | Oracle |
-| **Cloud Infrastructure Foundations** | Oracle |
+<details>
+<summary><b>Deep Dive: Wildfire Detection System</b></summary>
+<br/>
 
----
+> An **AI-powered early warning system** trained on wildfire aerial imagery.
+> The CNN model detects fire signatures with high precision by learning
+> color, texture, and spatial patterns in real-world datasets.
 
-## 🎯 2025 Roadmap
+**Key engineering decisions:**
+- Custom preprocessing pipeline (normalization, augmentation) to boost generalization
+- CNN architecture tuned for binary classification on imbalanced datasets
+- OpenCV for image ingestion and preprocessing
 
-- [ ] 🔧 Land a full-stack or AI engineering role
-- [ ] 📦 Deploy two production-grade open source projects
-- [ ] 🧩 Solve 300+ DSA problems (LeetCode / GFG)
-- [ ] 🤝 Contribute to real-world AI open-source projects
-- [ ] 📐 Master system design for distributed systems
+</details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🌐 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriponsankar%20D%20P-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Sriponsankar007-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-sriponsankar6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
-
-</div>
-
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" alt="stats" /> GitHub Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&ring_color=c084fc" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" width="38%" alt="Top Languages" />
 
-*"The best way to predict the future is to build it."*
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" width="56%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriponsankar007&bg_color=0d1117&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" alt="trophy" /> Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Badge" /><br/><br/>
+<b>AI Vector Search Professional</b><br/>
+<sub>Oracle Corporation</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Badge" /><br/><br/>
+<b>Cloud Infrastructure Foundations</b><br/>
+<sub>Oracle Corporation</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bullseye.png" width="30" alt="target" /> 2025 Goals
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  [ ] 🔧  Land a full-stack or AI engineering role        ║
+║  [ ] 📦  Deploy 2 production-grade open source projects  ║
+║  [ ] 🧩  Solve 300+ problems on LeetCode / GFG           ║
+║  [ ] 🤝  Contribute to real-world AI open source         ║
+║  [ ] 📐  Master system design for distributed systems    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" alt="snake" /> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30" alt="handshake" /> Open to Opportunities
+
+> *Actively looking for full-stack / AI engineering roles, internships, and open-source collaborations.*
+> *If you are building something meaningful — let us connect.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote" />
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:5b2d8e,100:090979&height=130&section=footer&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
