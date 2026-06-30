@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sriponsankar6@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sriponsankar007&style=for-the-badge&color=7c3aed&label=VIEWS)](https://github.com/Sriponsankar007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://sriponsankar-portfolio.onrender.com)
 
@@ -396,8 +396,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriponsankar-d-p-40b922295/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriponsankar6@gmail.com)
-&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sriponsankar6@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
 
 <br/>
