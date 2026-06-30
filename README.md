@@ -84,7 +84,7 @@ const sriponsankar = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30" alt="radar" /> Currently Exploring
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="30" alt="radar" /> Currently Exploring
 
 <div align="center">
 
