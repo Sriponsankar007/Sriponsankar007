@@ -84,7 +84,7 @@ const sriponsankar = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="30" alt="radar" /> Currently Exploring
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30" alt="radar" /> Currently Exploring
 
 <div align="center">
 
@@ -271,9 +271,9 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-
-## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Brain.png" width="30" alt="live" /> Live Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" alt="live" /> Live Projects
 
 <div align="center">
 
@@ -314,8 +314,8 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <div align="center">
 
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f59e0b&text_color=cbd5e1&ring_color=7c3aed" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=cbd5e1&langs_count=8" width="42%" alt="Top Languages" />
 
 <br/><br/>
 
@@ -333,7 +333,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" alt="trophies" /> Trophy Case
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=Sriponsankar007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -346,12 +346,16 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Badge" /><br/><br/>
+<a href="https://drive.google.com/file/d/1H8AfI4sNpghkKrIGWrkdItVuZZTVMX8j/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Oracle-AI%20Vector%20Search%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Badge" />
+</a><br/><br/>
 <b>AI Vector Search Professional</b><br/>
 <sub>Oracle Corporation</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Badge" /><br/><br/>
+<a href="https://drive.google.com/file/d/1H8AfI4sNpghkKrIGWrkdItVuZZTVMX8j/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Badge" />
+</a><br/><br/>
 <b>Cloud Infrastructure Foundations</b><br/>
 <sub>Oracle Corporation</sub>
 </td>
