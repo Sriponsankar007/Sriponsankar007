@@ -84,7 +84,7 @@ const sriponsankar = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30" alt="radar" /> Currently Exploring
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="30" alt="radar" /> Currently Exploring
 
 <div align="center">
 
@@ -271,9 +271,9 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="30" alt="live" /> Live Projects
+
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Brain.png" width="30" alt="live" /> Live Projects
 
 <div align="center">
 
@@ -319,11 +319,9 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriponsankar007&bg_color=0d1117&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -337,7 +335,6 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" alt="trophy" /> Certifications
 
