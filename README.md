@@ -323,11 +323,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriponsankar007&bg_color=0d1117&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 <br/>
-<div align="center">
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" alt="trophies" /> Trophy Case
- 
-<img src="https://github-profile-trophy.vercel.app/?username=Sriponsankar007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
-</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" alt="trophy" /> Certifications
