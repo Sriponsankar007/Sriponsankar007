@@ -48,6 +48,12 @@ const sriponsankar = {
 
 <div align="center">
 
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,nodejs,express,mongodb,mysql,tensorflow,opencv,git,vscode&theme=dark&perline=13" alt="Skill Icons" />
+</a>
+
+<br/><br/>
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -73,6 +79,19 @@ const sriponsankar = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30" alt="radar" /> Currently Exploring
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/status-actively%20learning-success?style=for-the-badge&logo=target&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-grinding%20daily-a855f7?style=for-the-badge&logo=leetcode&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-distributed%20systems-7c3aed?style=for-the-badge&logo=apache&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-contributing-090979?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
 
@@ -295,23 +314,26 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Sriponsankar007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=f59e0b&text_color=cbd5e1&ring_color=7c3aed" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriponsankar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=cbd5e1&langs_count=8" width="42%" alt="Top Languages" />
 
-</td>
-<td>
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriponsankar007&theme=tokyonight&hide_border=true&background=0d1117&ring=c084fc&fire=f59e0b&currStreakLabel=c084fc&sideLabels=c084fc&dates=6b7280" alt="GitHub Streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriponsankar007&bg_color=0d1117&color=c084fc&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" alt="trophies" /> Trophy Case
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sriponsankar007&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -390,6 +412,10 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Thanks%20for%20stopping%20by!-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="Thanks badge" />
 
 <br/><br/>
 
