@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sriponsankar007)
 [![Email](https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sriponsankar6@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sriponsankar007&style=for-the-badge&color=7c3aed&label=VIEWS)](https://github.com/Sriponsankar007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://sriponsankar-portfolio.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]((https://portfolio-sriponsankar.vercel.app))
 
 </div>
 
@@ -280,7 +280,7 @@ MongoDB handles concurrent writes from hundreds of simultaneous registrants.
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://sriponsankar-portfolio.onrender.com">
+<a href="https://portfolio-sriponsankar.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-a855f7?style=for-the-badge&logo=render&logoColor=white" alt="Portfolio Live" />
 </a>
 <br/><sub>Personal Portfolio</sub>
